@@ -31,7 +31,7 @@
     "sequelize": "^4.42.0",
     "serve-favicon": "^2.5.0",
     "should": "^13.2.3",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.4.0",
     "supertest": "^4.0.2"
   }
 }
